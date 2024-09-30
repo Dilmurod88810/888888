@@ -1,0 +1,150 @@
+body {
+    width: 1368px;
+    margin: 0 auto;
+}
+.clicker-script-regular {
+    font-family: "Clicker Script", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.playfair-display {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+  
+#home-section {
+    background-image: url('./img/coffee_image.png');
+    background-repeat: no-repeat;
+    height: 768px;
+    width: 100%;
+}
+nav {
+    padding: 0 2rem;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    align-items: center;
+}
+.nav-logo h6 {
+    font-size: 35px;
+    margin: 0;
+    font-weight: 100;
+}
+.nav-links {
+    display: flex;
+    gap: 4rem;
+    font-size: 14px;
+}
+.nav-links a {
+    color: white;
+    text-decoration: none;
+}
+.nav-sign {
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+}
+.nav-sign a {
+    color:white;
+    text-decoration: none;
+}
+button {
+    border: none;
+    border-radius: 24px ;
+    background-color: #F9C06A;
+    padding: 1rem;
+    color: black;
+}
+.home-left {
+    padding: 2rem;
+    color: white;
+    width: 530px;
+    font-size: 22px;
+}
+h1 {
+    font-size: 220px;
+    margin: 0;
+    font-weight: 100;
+}
+#xyz {
+    height: 1200px;
+    width: 484;
+    left: 60px;
+    background-image: url('./img/Group\ 9.png');
+    background-repeat: no-repeat;
+}
+h5{
+    font-size: 420px;
+    margin: 0;
+    font-weight: 100;
+}
+.d{
+    padding: 2rem;
+    color: black;
+    width: 530px;
+    font-size: 25px;
+}
+#yzx{
+    background-image: url('./img/Group\ 25\ \(1\).png');
+    background-repeat: no-repeat;
+    height: 542px;
+    width: 1180px;
+    top: 1416px;
+    border: 1px;
+}
+#zyx{
+    background-image: url('./img/Group\ 35\ \(1\).png');
+    background-repeat: no-repeat;
+    height: 612px;
+    width: 1180px;
+    top: 2040px;
+    left: 93px;
+    border: 1px;
+}
+
+#abc{
+    background-image: url('./img/Group\ 36.png');
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 1591px;
+    top: 2734px;
+}
+.key{
+    
+    padding: 2rem;
+    color: white;
+    width: 530px;
+    font-size: 22px;
+    
+}
+
+#mn {
+    background-image: url('./img/Group\ 44\ \(3\).png');
+    background-repeat:no-repeat ;
+    width: 100%;
+    height: 1000px;
+    top: 3557px;
+    
+}
+.m{
+    background-image: url('./img/Group\ 46.png');
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 374px;
+    top: 4219px;
+}
+#nnn{
+    background-image: url('./img/Group\ 61.jpg');
+    background-repeat: no-repeat;
+    width: 100%;
+    height:492px ;
+    top: 4593;
+    color: white;
+
+}
+
+
+
